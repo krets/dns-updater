@@ -1,0 +1,9 @@
+{
+  "domains": ["example1.com", "example2.com", "example3.com"],
+  "initial_nameservers": ["8.8.8.8", "9.9.9.9"],
+  "nameservers": ["ns1.crappywebhost.com", "ns2.crappywebhost.com"],
+  "credentials": {
+    "api_key": "VGhpcyBpcyBub3QgYSBrZXku",
+    "api_secret": "S2VlcCB0cnlpbmcgOkQ="
+  }
+}

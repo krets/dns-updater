@@ -1,0 +1,5 @@
+.creds.json
+config.json
+*.pyc
+venv*
+.idea
